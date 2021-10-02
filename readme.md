@@ -72,7 +72,7 @@ https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/nightly
 Specifically we want the arm64 rootfs and optionally the devtools if we wish to have additional features such as SSHing from a PC.
 
 ### Boot image for OnePlus 6 and 6T
-https://oldpc.mrcyjanek.net/files/%3AD/Documents/Porting/fajita/halium-boot-anbox-halium.img
+[Get it Here](https://github.com/techtino/Droidian-Install-Guide-OP6-6T-/raw/main/halium-boot-anbox-halium.img)
 
 # Installing Droidian
 Load the phone into fastboot mode, then run:
