@@ -21,8 +21,10 @@ For OnePlus 6T:
 https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.O.24_GLO_024_1909112343/OnePlus6TOxygen_34_OTA_024_all_1909112343_d5b1905.zip
 
 Also, download TWRP 3.5.2 for your respective device. 
+
 For OnePlus 6:
 https://eu.dl.twrp.me/enchilada/twrp-3.5.2_9-0-enchilada.img.html
+
 For OnePlus 6T:
 https://eu.dl.twrp.me/fajita/twrp-3.5.2_9-0-fajita.img.html
 
