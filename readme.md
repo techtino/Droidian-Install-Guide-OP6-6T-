@@ -59,15 +59,12 @@ https://forum.xda-developers.com/t/tool-6t-msmdownloadtool-v4-0-59-oos-v9-0-13.3
 
 First we need to download a few things. TWRP 3.3.1, the droidian zips and our boot image.
 ### TWRP
-For OnePlus 6:
-https://eu.dl.twrp.me/enchilada/twrp-3.3.1-2-enchilada.img.html
+[For OnePlus 6](https://eu.dl.twrp.me/enchilada/twrp-3.3.1-2-enchilada.img.html)
 
-For OnePlus 6T:
-https://eu.dl.twrp.me/fajita/twrp-3.3.1-1-fajita.img.html
+[For OnePlus 6T](https://eu.dl.twrp.me/fajita/twrp-3.3.1-1-fajita.img.html)
 
 ### Droidian Zips
-Download the latest droidian zips from:
-https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/nightly
+[Download the latest droidian zips from here](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/nightly)
 
 Specifically we want the arm64 rootfs and optionally the devtools if we wish to have additional features such as SSHing from a PC.
 
@@ -87,7 +84,6 @@ Go to Advanced, then click Sideload and run:
 All Done, press reboot, then system in TWRP and you'll be greeted with Phosh!
 BTW, default password is 1234, probably want to change that :D
 
-# Tips and tricks
-Take a look at: 
-https://pad.mrcyjanek.net/p/r.901550d73e46cfeced7e4f12e969d120
+# Droidian Tips and tricks
+[Take a look here](https://pad.mrcyjanek.net/p/r.901550d73e46cfeced7e4f12e969d120)
 It'll probably cover most of the things you need :D
