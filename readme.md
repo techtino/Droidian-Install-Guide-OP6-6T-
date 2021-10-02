@@ -11,7 +11,12 @@ Fastboot and ADB (On Arch these can be found in the android-tools package)
 
 Since the OnePlus 6T currently has a Halium build based on Android 9, we need to make sure our device is running Android 9 before Droidian can be installed.
 
-This can be done by flashing OOS 9 to the phone using TWRP.
+This can be done by flashing OOS 9 to the phone using TWRP or MSM Download Tool.
+
+**IMPORTANT: If your device currently has Android 11 installed, it will be unable to boot into TWRP**, therefore please follow the MSM Download Tool instructions (Windows only for now D:)
+
+### TWRP Method
+
 Firstly, download the OOS 9 zip from:
 
 For OnePlus 6:
@@ -48,6 +53,11 @@ Next, we can boot TWRP 3.5.2:
 Select reboot from TWRP, then Bootloader.
 
 Once fastboot mode loads once again, we should have OOS 9 installed to our currently booted slot, which means we are ready to install Droidian!
+
+### MSM Download Tool Method
+
+Follow the steps here:
+https://forum.xda-developers.com/t/tool-6t-msmdownloadtool-v4-0-59-oos-v9-0-13.3867448/
 
 ## Preparing files required for Droidian
 
