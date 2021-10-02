@@ -1,13 +1,13 @@
 # Droidian Guide
 
-## What is Droidian?
+# What is Droidian?
 
 Droidian is a Linux distribution for Android Phones based on Mobian, and therefore supports all Debian applications. It runs on a large majority of Android 9 devices. If a device has been ported to Ubuntu Touch and is android 9 or 10, it is likely possible to run Droidian.
 
 Dependencies:
 Fastboot and ADB (On Arch these can be found in the android-tools package)
 
-## Downgrading to Android 9
+# Downgrading to Android 9
 
 Since the OnePlus 6T currently has a Halium build based on Android 9, we need to make sure our device is running Android 9 before Droidian can be installed.
 
@@ -59,7 +59,7 @@ Once fastboot mode loads once again, we should have OOS 9 installed to our curre
 Follow the steps here:
 https://forum.xda-developers.com/t/tool-6t-msmdownloadtool-v4-0-59-oos-v9-0-13.3867448/
 
-## Preparing files required for Droidian
+# Preparing files required for Droidian
 
 First we need to download a few things. TWRP 3.3.1, the droidian zips and our boot image.
 ### TWRP
@@ -78,7 +78,7 @@ Specifically we want the arm64 rootfs and optionally the devtools if we wish to 
 ### Boot image for OnePlus 6 and 6T
 https://oldpc.mrcyjanek.net/files/%3AD/Documents/Porting/fajita/halium-boot-anbox-halium.img
 
-## Installing Droidian
+# Installing Droidian
 Load the phone into fastboot mode, then run:
 
     sudo fastboot flash boot halium-boot-anbox-halium.img
@@ -91,7 +91,7 @@ Go to Advanced, then click Sideload and run:
 All Done, press reboot, then system in TWRP and you'll be greeted with Phosh!
 BTW, default password is 1234, probably want to change that :D
 
-## Tips and tricks
+# Tips and tricks
 Take a look at: 
 https://pad.mrcyjanek.net/p/r.901550d73e46cfeced7e4f12e969d120
 It'll probably cover most of the things you need :D
