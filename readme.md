@@ -67,6 +67,9 @@ First we need to download a few things. TWRP 3.3.1, the droidian zips and our bo
 
 Specifically we want the arm64 rootfs and optionally the devtools if we wish to have additional features such as SSHing from a PC.
 
+Sometimes, there are random issues with the latest nightlies (e.g. issues booting, ssh server being broken etc)
+You can flash an old stable release from [here](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/droidian%2Fbullseye%2F22). It's a very old build by this point though.
+
 ### Boot image for OnePlus 6 and 6T
 [Get it Here](https://github.com/techtino/Droidian-Install-Guide-OP6-6T-/raw/main/halium-boot-anbox-halium.img)
 Boot image built by: https://github.com/MrCyjaneK (He's put a bunch of work into the kernel)
