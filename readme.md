@@ -55,6 +55,7 @@ First we need to download a few things. TWRP 3.3.1, the droidian zips and our bo
 ### TWRP
 For OnePlus 6:
 https://eu.dl.twrp.me/enchilada/twrp-3.3.1-2-enchilada.img.html
+
 For OnePlus 6T:
 https://eu.dl.twrp.me/fajita/twrp-3.3.1-1-fajita.img.html
 
