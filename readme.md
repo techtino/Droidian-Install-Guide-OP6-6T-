@@ -69,6 +69,7 @@ Specifically we want the arm64 rootfs and optionally the devtools if we wish to 
 
 ### Boot image for OnePlus 6 and 6T
 [Get it Here](https://github.com/techtino/Droidian-Install-Guide-OP6-6T-/raw/main/halium-boot-anbox-halium.img)
+Boot image built by: https://github.com/MrCyjaneK (He's put a bunch of work into the kernel)
 
 # Installing Droidian
 Load the phone into fastboot mode, then run:
