@@ -52,8 +52,7 @@ Once fastboot mode loads once again, we should have OOS 9 installed to our curre
 
 ### MSM Download Tool Method
 
-Follow the steps here:
-https://forum.xda-developers.com/t/tool-6t-msmdownloadtool-v4-0-59-oos-v9-0-13.3867448/
+[Follow the steps here](https://forum.xda-developers.com/t/tool-6t-msmdownloadtool-v4-0-59-oos-v9-0-13.3867448/)
 
 # Preparing files required for Droidian
 
