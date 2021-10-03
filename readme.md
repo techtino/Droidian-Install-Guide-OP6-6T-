@@ -15,6 +15,8 @@ This can be done by flashing OOS 9 to the phone using TWRP or MSM Download Tool.
 
 **IMPORTANT: If your device currently has Android 11 installed, it will be unable to boot into TWRP**, therefore please follow the MSM Download Tool instructions (Windows only for now D:)
 
+If you have Android 9 already installed, skip to "Preparing files for droidian".
+
 ### TWRP Method
 
 Firstly, download the OOS 9 zip from:
@@ -23,7 +25,7 @@ Firstly, download the OOS 9 zip from:
 
 [For OnePlus 6T](https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.O.24_GLO_024_1909112343/OnePlus6TOxygen_34_OTA_024_all_1909112343_d5b1905.zip)
 
-Also, download TWRP 3.5.2 for your respective device. 
+Also, download TWRP 3.5.2 for your respective device.
 
 [For OnePlus 6](https://eu.dl.twrp.me/enchilada/twrp-3.5.2_9-0-enchilada.img.html)
 
@@ -63,12 +65,11 @@ First we need to download a few things. TWRP 3.3.1, the droidian zips and our bo
 [For OnePlus 6T](https://eu.dl.twrp.me/fajita/twrp-3.3.1-1-fajita.img.html)
 
 ### Droidian Zips
-[Download the latest droidian zips from here](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/nightly)
+[Download the latest stable droidian zips from here](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/droidian%2Fbullseye%2F22)
 
 Specifically we want the arm64 rootfs and optionally the devtools if we wish to have additional features such as SSHing from a PC.
 
-Sometimes, there are random issues with the latest nightlies (e.g. issues booting, ssh server being broken etc)
-You can flash an old stable release from [here](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/droidian%2Fbullseye%2F22). It's a very old build by this point though.
+Optionally, if you are feeling brave, then you can use the latest nightlies [here](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/nightly) instead but there are chances for random issues.
 
 ### Boot image for OnePlus 6 and 6T
 [Get it Here](https://github.com/techtino/Droidian-Install-Guide-OP6-6T-/raw/main/halium-boot-anbox-halium.img)
