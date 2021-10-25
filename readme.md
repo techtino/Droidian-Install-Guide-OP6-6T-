@@ -78,7 +78,7 @@ Boot image built by: https://github.com/MrCyjaneK (He's put a bunch of work into
 # Installing Droidian
 Load the phone into fastboot mode, then run:
 
-    sudo fastboot flash boot halium-boot-anbox-halium.img
+    sudo fastboot flash boot 2021-10-14-halium-boot-allblock(1).img
     sudo fastboot boot twrp-3.3.1-2-[device].img
 Go to Advanced, then click Sideload and run:
 
