@@ -72,13 +72,13 @@ Specifically we want the arm64 rootfs and optionally the devtools if we wish to 
 Optionally, if you are feeling brave, then you can use the latest nightlies [here](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/nightly) instead but there are chances for random issues.
 
 ### Boot image for OnePlus 6 and 6T
-[Get it Here](https://github.com/techtino/Droidian-Install-Guide-OP6-6T-/raw/main/2021-10-14-halium-boot-allblock(1).img)
+[Get it Here](https://github.com/techtino/Droidian-Install-Guide-OP6-6T-/raw/main/halium-boot.img)
 Boot image built by: https://github.com/MrCyjaneK (He's put a bunch of work into the kernel)
 
 # Installing Droidian
 Load the phone into fastboot mode, then run:
 
-    sudo fastboot flash boot 2021-10-14-halium-boot-allblock(1).img
+    sudo fastboot flash boot halium-boot.img
     sudo fastboot boot twrp-3.3.1-2-[device].img
 Go to Advanced, then click Sideload and run:
 
