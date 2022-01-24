@@ -13,8 +13,6 @@ Since the OnePlus 6T currently has a Halium build based on Android 9, we need to
 
 This can be done by flashing OOS 9 to the phone using TWRP or MSM Download Tool.
 
-**IMPORTANT: If your device currently has Android 11 installed, it will be unable to boot into TWRP**, therefore please follow the MSM Download Tool instructions (Windows only for now D:)
-
 If you have Android 9 already installed, skip to "Preparing files for droidian".
 
 ### TWRP Method
@@ -25,7 +23,7 @@ Firstly, download the OOS 9 zip from:
 
 [For OnePlus 6T](https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.O.24_GLO_024_1909112343/OnePlus6TOxygen_34_OTA_024_all_1909112343_d5b1905.zip)
 
-Also, download TWRP 3.5.2 for your respective device.
+Also, download TWRP 3.5.2 for your respective device. You can use 3.6 instead for android 11.
 
 [For OnePlus 6](https://eu.dl.twrp.me/enchilada/twrp-3.5.2_9-0-enchilada.img.html)
 
