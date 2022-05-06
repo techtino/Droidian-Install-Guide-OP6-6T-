@@ -1,10 +1,3 @@
----
-title: "Droidian Install Guide"
-weight: 1
-type: docs
-summary: Instructions to install Linux on the OnePlus 6T
----
-
 # Droidian Guide
 
 # What is Droidian?
