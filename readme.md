@@ -63,11 +63,11 @@ First we need to download a few things. TWRP 3.3.1, the droidian zips and our bo
 [For OnePlus 6T](https://eu.dl.twrp.me/fajita/twrp-3.3.1-1-fajita.img.html)
 
 ### Droidian Zips
-[Download the latest stable droidian zips from here](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/droidian%2Fbullseye%2F22)
+[Download the latest stable droidian zips from here](https://github.com/droidian-images/droidian/releases)
 
 Specifically we want the arm64 rootfs and optionally the devtools if we wish to have additional features such as SSHing from a PC.
 
-Optionally, if you are feeling brave, then you can use the latest nightlies [here](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/nightly) instead but there are chances for random issues.
+Optionally, if you are feeling brave, then you can use the latest nightlies [here](https://github.com/droidian-images/droidian/releases/tag/nightly) instead but there are chances for random issues.
 
 ### Boot image for OnePlus 6 and 6T
 [Get it Here](https://github.com/techtino/Droidian-Install-Guide-OP6-6T-/raw/main/halium-boot.img)
