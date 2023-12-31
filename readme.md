@@ -1,5 +1,9 @@
 # Droidian Guide
 
+
+## NOTE: Droidian have a new installer, I suggest following the upstream guide https://devices.droidian.org/#/devices/enchilada for steps after flashing android 9.
+
+
 # What is Droidian?
 
 Droidian is a Linux distribution for Android Phones based on Mobian, and therefore supports all Debian applications. It runs on a large majority of Android 9 devices. If a device has been ported to Ubuntu Touch and is android 9 or 10, it is likely possible to run Droidian.
