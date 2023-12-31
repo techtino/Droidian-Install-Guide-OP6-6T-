@@ -89,7 +89,3 @@ Go to Advanced, then click Sideload and run:
 
 All Done, press reboot, then system in TWRP and you'll be greeted with Phosh!
 BTW, default password is 1234, probably want to change that :D
-
-# Droidian Tips and tricks
-[Take a look here](https://pad.mrcyjanek.net/p/r.901550d73e46cfeced7e4f12e969d120)
-It'll probably cover most of the things you need :D
